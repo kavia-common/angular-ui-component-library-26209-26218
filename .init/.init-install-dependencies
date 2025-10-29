@@ -1,0 +1,4 @@
+{
+    "command": "npm install --legacy-peer-deps",
+    "working_directory": "/home/kavia/workspace/code-generation/angular-ui-component-library-26209-26218/custom_library_frontend"
+}
